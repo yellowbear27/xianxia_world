@@ -1,0 +1,56 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Node / web tools, if ever used
+node_modules/
+dist/
+build/
+
+# Large/raw exports
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Local notes not meant for canon
+private/
+scratch/
+local/
