@@ -1,4 +1,4 @@
-```markdown
+
 # LORE BIBLE — FULL CANON MASTER DOCUMENT
 
 ## Document Purpose
@@ -551,4 +551,4 @@ Its deepest truth is:
 - every order contains ruin
 - every blessing contains cost
 - every survival contains resistance
-```
+
