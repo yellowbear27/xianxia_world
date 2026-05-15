@@ -1,3 +1,25 @@
+## VII. CIVILIZATIONAL MATRIX — CORE AXIOM
+
+The four clans are not merely elemental factions. They are four competing answers to the same question: how does civilisation survive and exercise power?
+
+**Dong Chen preserves.**
+**Nan Yan accelerates.**
+**Xi Yue severs.**
+**Bei Ming endures.**
+
+Each is a complete civilisational philosophy expressed through weapons, cultivation methods, social structures, body philosophy, and historical tragedy.
+
+### Cross-Clan Unarmed Competence
+
+All four clans have unarmed combat skill, but not symmetrically. Each clan interprets the body differently.
+
+- Dong Chen: the body as a cultivated instrument — joint control, pressure points, qi-flow interference, restraint.
+- Nan Yan: the body as fuel and momentum — explosive, striking-heavy, kinetic.
+- Xi Yue: the body as a weapon optimised for killing — surgical, close-range, assassination-oriented.
+- Bei Ming: the body as weight, endurance, and pressure — grappling, crushing, positional domination.
+
+---
+
 ## VIII. THE FOUR CLANS — MACRO OVERVIEW
 
 Each clan serves as a living embodiment of cosmic principles, though most have decayed, distorted, or radicalized those principles.

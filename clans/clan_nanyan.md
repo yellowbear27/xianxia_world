@@ -191,6 +191,44 @@ Nan Yan may see Bei Ming as economically sterile, but spiritually and cosmologic
 
 ---
 
+## Combat Identity
+
+Nan Yan's principal weapons are the spear and bow.
+
+The bow fits Zhuque / Vermilion Bird because it represents projection, radiance, stored energy released violently, distance, precision, sky/fire imagery, and the arrow as a miniature phoenix strike.
+
+The spear fits Nan Yan because it represents momentum, reach, penetration, forward aggression, and battlefield initiative. The spear should not be treated as a static pike-wall weapon. For Nan Yan it is a shock weapon: aerial, mobile, explosive, comet-like.
+
+### Female Nan Yan Spear Users
+
+Female protagonists using spears are completely coherent in Nan Yan.
+
+The spear is not inherently masculine or brute-force-based. It can be elegant, technical, flowing, precise, phoenix-like, ribbon-like with tassels and flame trails. Chinese martial tradition already has figures like Mu Guiying. Japanese onna-musha tradition supports female polearm aesthetics. Nan Yan women using spear and bow may be one of the clan's strongest visual identities.
+
+### Body Philosophy
+
+The body is fuel and momentum.
+
+Not a refined instrument. Not a precision tool. A kinetic system oriented toward forward pressure, output, and expenditure.
+
+### Unarmed Style
+
+Explosive, athletic, striking-heavy, aggressive, kinetic.
+
+### Combat Analogy
+
+Muay Thai / aggressive striking / shock fighter civilisation in psychology, not literally.
+
+Explosive forward pressure, high offensive tempo, momentum, athletic violence.
+
+Civilisationally, Nan Yan advances by throwing effort, bodies, scale, and pressure at problems.
+
+Nan Yan embodies:
+
+> Mastery through intensity.
+
+---
+
 ## Martial Mechanics
 
 ### Archetypes & Weapons

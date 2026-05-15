@@ -231,6 +231,57 @@ Dong Chen sees Nan Yan as dynamic but unstable. Nan Yan's oceanic scale and indu
 
 ---
 
+## Combat Identity
+
+Dong Chen's weapon is the jian. Its value is not purely practical. It is symbolic.
+
+The sword represents legitimacy, refinement, aristocratic culture, official cultivation orthodoxy, imperial education, scholar-warrior aesthetics, and "proper cultivation." Dong Chen's sword dominance is partly propaganda and cultural hegemony.
+
+The sword says: this is what civilised martial cultivation looks like. That makes it perfect for the old empire.
+
+### Body Philosophy
+
+The body is a cultivated instrument.
+
+Not a tool of raw power. A precision system developed through education, medical knowledge, and accumulated tradition.
+
+### Unarmed Style
+
+Technical, medically informed, anatomically precise.
+
+Methods include: joint control, balance disruption, pressure points, qi-flow interference, restraint, precision. The goal is control before destruction.
+
+### Combat Analogy
+
+Classical fencing, elite military academy swordsmanship, internal martial arts, educated officer tradition, refined jian culture.
+
+Dong Chen embodies:
+
+> Mastery through civilisation.
+
+---
+
+## True Power — Systems, Not Just Fighters
+
+Dong Chen should not be powerful merely because its fighters have higher numbers.
+
+Its power comes from systems:
+
+- best education
+- best medicine
+- deepest archives
+- imperial academies
+- standardised cultivation
+- healing arts
+- bureaucratic continuity
+- elite institutions
+- accumulated martial knowledge
+- ability to absorb and codify foreign techniques
+
+Dong Chen is terrifying because it preserves and integrates excellence.
+
+---
+
 ## Martial Mechanics
 
 ### Archetypes & Weapons

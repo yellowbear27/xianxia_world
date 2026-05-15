@@ -271,6 +271,52 @@ This is not mere destruction. It is un-creation.
 
 ---
 
+## Combat Identity
+
+Xi Yue uses the dao / blade / sabre family broadly. This should not be read narrowly as "the sabre clan."
+
+Xi Yue is the clan of cutting, severing, reduction, and finality. Its weapon family can include dao, sabres, knives, daggers, hooked blades, execution blades, dual blades, cleavers, hidden blades, cutting wires, and ritual knives. This fits the West / Metal / Autumn / death / finality symbolism.
+
+### The Deeper Cutting Principle
+
+Xi Yue does not merely cut flesh.
+
+At higher cultivation levels, they may cut: qi flow, momentum, karma, memory, fate, formation lines, sound, bonds, and concepts.
+
+Xi Yue should not become a shallow edgy assassin clan. Their deeper identity is austerity, precision, and the terrifying philosophy of removal.
+
+Their apotheosis — Singularity of Un-Creation / Wuji — is not destruction. It is un-creation: primordial emptiness, severance from cause and effect, reality cut back toward pre-creation.
+
+### Body Philosophy
+
+The body is a weapon to optimise and remove weakness from.
+
+Not a refined instrument. Not fuel. A tool to be stripped of everything unnecessary until only lethal function remains.
+
+### Unarmed Style
+
+Lethal, close-range, knife-like, surgical, assassination-oriented.
+
+Methods include: throat attacks, tendon destruction, nerve strikes, concealed weapons, grappling-to-kill, sudden lethal angles.
+
+### Combat Analogy
+
+Knife fighting, Kali/Eskrima, close-quarters assassination, iaijutsu mentality, tactical killing systems.
+
+Xi Yue embodies:
+
+> Mastery through elimination.
+
+### Jian vs Dao — The Cultural Distinction
+
+Dong Chen's jian represents refinement, orthodoxy, scholarship, balance, and imperial legitimacy.
+
+Xi Yue's dao represents practicality, lethality, battlefield violence, directness, and severance.
+
+This is a clean Chinese-feeling distinction with real civilisational weight.
+
+---
+
 ## Martial Mechanics
 
 ### Archetypes & Weapons

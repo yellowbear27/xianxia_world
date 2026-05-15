@@ -305,6 +305,76 @@ Political power lies south. Transcendence draws north.
 
 ---
 
+## Combat Identity
+
+Bei Ming should not feel like Shaolin-style fantasy monks.
+
+Their combat specialisation is grappling, pressure, and weight.
+
+Unarmed methods include: grappling, wrestling, clinching, headbutts, elbows, knees, body slams, shoulder charges, suplexes, ground and pound, crushing pressure, positional domination.
+
+At high levels, fighting Bei Ming feels like fighting gravity itself.
+
+### Body Philosophy
+
+The body is weight, endurance, pressure, and reality.
+
+The body is not a refined instrument. It is not fuel. It is not a weapon to optimise.
+
+It is the earth itself. Dense, patient, immovable under sufficient depth.
+
+### Combat Analogy
+
+Wrestling, sambo, judo, catch wrestling, Greco-Roman pressure fighting, heavy grappling.
+
+Bei Ming embodies:
+
+> Mastery through endurance.
+
+### Heavy Weapons Philosophy
+
+Bei Ming heavy weapons are slow, deliberate, and terrain-damaging.
+
+The visual principle: weight as philosophy.
+
+Temple bells used as weapons are especially strong because they combine meditation, ritual, resonance, time, awakening, and violence. Enlightenment itself has weight.
+
+Bei Ming should feel like monks crossed with siege engines, not berserkers.
+
+---
+
+## Civilizational Role — Where Exhausted Greatness Goes
+
+Bei Ming becomes the place where exhausted greatness drifts.
+
+Its elite core may include retired emperors, former generals, old cultivation geniuses, philosophers, broken warlords, retired assassins, failed sages — people who once moved the world.
+
+Outwardly, Bei Ming lives at subsistence level. Inwardly, it contains people whose words or actions could shake nations.
+
+As people age, especially high achievers, they often become more receptive to impermanence, suffering, detachment, exhaustion, and the futility of endless striving. So Bei Ming becomes the civilisation of "after": after conquest, after ambition, after violence, after empire, after achievement.
+
+This makes Bei Ming a kind of spiritual black hole. The world's greatest ambitions eventually drift northward into silence.
+
+Political power lies south. Transcendence draws north.
+
+---
+
+## Cultivation Cycle
+
+Bei Ming's cultivation method is extremely simple and extremely hard.
+
+The core cycle:
+
+1. Stillness
+2. Experience
+3. Suffering / confusion / action
+4. Reflection
+5. Return to stillness
+
+This is not naive isolation. Bei Ming monks are not ignorant of the world. They metabolise experience. They are sent out precisely because one cannot meaningfully renounce what one has never understood.
+
+---
+
 ## Martial Mechanics
 
 ### Archetypes & Weapons
